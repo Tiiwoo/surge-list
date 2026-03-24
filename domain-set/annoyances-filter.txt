@@ -768,6 +768,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.comm100.com
 .app.davision.ai
 .zdorovyak.com
 .code.tidio.co
